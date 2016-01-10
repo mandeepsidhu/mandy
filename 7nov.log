@@ -1,0 +1,101 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.24)  7 NOV 2015 16:13
+entering extended mode
+**7nov.tex
+(7nov.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (7nov.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+
+Overfull \hbox (66.27496pt too wide) in paragraph at lines 16--19
+\OT1/cmr/m/n/10 g;sdlfkg;lskdgl;sdfkjg \OT1/cmr/m/it/10 This is \OT1/cmr/m/n/10
+ the first-grt-fgjfgjrt-gjtr-jrtjn sec-tion.   ghis
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 23.
+[1
+
+
+
+pdfTeX warning: pdflatex.exe (file pdftex.map): cannot open font map file
+]
+
+! LaTeX Error: \begin{flushleft} on input line 27 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2] (7nov.aux) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 27 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 237 strings out of 493673
+ 2450 string characters out of 3143953
+ 54455 words of memory out of 3000000
+ 3658 multiletter control sequences out of 15000+200000
+ 8600 words of font info for 30 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 23i,6n,17p,137b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\1590148\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\pub
+lic\cm\dpi600\cmr7.pk> <C:\Users\1590148\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\public\cm\dpi600\cmmi10.pk> <C:\Users\1590148\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\public\cm\dpi600\cmbxti10.pk> <C:\Users\1590148\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\public\cm\dpi600\cmti10.pk> <C:\Users\1590148\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi600\cmbx10.pk> <C:\Users\1590148\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi600\cmbx12.pk> <C:\Users\1590
+148\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi600\cmr10.pk> <C:\Use
+rs\1590148\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi720\cmbx12.pk>
+ <C:\Users\1590148\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dpi600\cm
+r12.pk> <C:\Users\1590148\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cm\dp
+i600\cmr17.pk>
+Output written on 7nov.pdf (2 pages, 52553 bytes).
+PDF statistics:
+ 187 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
